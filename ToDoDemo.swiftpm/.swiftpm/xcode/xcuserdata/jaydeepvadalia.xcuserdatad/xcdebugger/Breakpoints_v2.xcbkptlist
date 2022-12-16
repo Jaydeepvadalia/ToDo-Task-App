@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FEB54D03-28B0-4FAF-84AA-BC4D2AF0EAEE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEC553A6-D077-423B-9B66-3163842D8E7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "deleteTask(index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BEC553A6-D077-423B-9B66-3163842D8E7B - 136a10c9532022e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDoDemo.ContentView.deleteTask(index: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "ToDoDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaydeepvadalia/ToDo-Task-App/ToDoDemo.swiftpm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "199">
+               </Location>
+               <Location
+                  uuid = "BEC553A6-D077-423B-9B66-3163842D8E7B - f9e7cc807373de3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ToDoDemo.ContentView.deleteTask(index: Foundation.IndexSet) -&gt; ()"
+                  moduleName = "ToDoDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaydeepvadalia/ToDo-Task-App/ToDoDemo.swiftpm/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "173">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
